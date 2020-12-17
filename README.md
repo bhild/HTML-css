@@ -33,8 +33,6 @@ STYLE
 	Theme/Purpose
 	Color scheme
 	Font scheme
-	
-CLIENT CALL	
  due - 8/27/20
  assigned - 9/11/20
 
