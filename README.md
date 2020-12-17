@@ -33,8 +33,9 @@ STYLE
 	Theme/Purpose
 	Color scheme
 	Font scheme
- due - 8/27/20
- assigned - 9/11/20
+	
+due - 8/27/20
+assigned - 9/11/20
 
 
 README writen - 12/16/20
